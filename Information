@@ -1,0 +1,75 @@
+--------------------------------------------------------------------------
+Hello GitHub,
+I am going to be announcing my first project!!
+--------------------------------------------------------------------------
+It is going to be a game written entirely in python with a small twist.
+It is going to be a text-based Murder Myster/Cluedo type game where you 
+need to go around different rooms and making different guesses.
+When you think you have gotten the correct items/characters, you need to
+go to the middle of the game and make the final call.
+--------------------------------------------------------------------------
+To win the game, you must guess the following:
+1. CORRECT ROOM OF MURDER.
+2. CORRECT WEAPON USED IN SAID MURDER.
+3. THE CHARACTER MURDERED.
+4. THE CHARACTER WHO MURDERED.
+If ANY of the above are incorrect, you lose!
+--------------------------------------------------------------------------
+If you lose, the following will happen:
+1. A TKINTER GUI WILL OPEN UP DISPLAYING THE LOSS SCREEN WITH A QUESTION.
+2. AFTER ANSWERING THE QUESTION, YOU WILL HAVE 3 SECONDS!! 
+3. AFTER THE 3 SECONDS, YOUR COMPUTER WILL CRASH WITH A BSOD 
+   (read README.TXT attatched with the files)
+4. YOUR COMPUTER WILL BOOT BACK AS NORMAL AND YOU MAY RETRY THE GAME!
+As stated in the README.TXT file, I am not responsible for lost data.
+--------------------------------------------------------------------------
+There are 6 Characters, 6 Weapons, 8 Rooms + The Middle.
+--------------------------------------------------------------------------
+Characters:
+1. Mr Soupion
+2. Miss Stellakind
+3. Mx Zetree
+4. Mx Infinibean
+5. Mx Kiriland
+6. Mr Baddaniel
+Based on my 6 favourite people!
+--------------------------------------------------------------------------
+Weapons:
+1. BOILING HOT SOUP
+2. HEART-SHAPED KNIFE
+3. SPIKED TREE
+3. EXPLOSIVE BEAN
+5. BANISH HAMMER
+6. SNIPER RIFLE
+These weapons belong to the corresponding number (Weapon 3 = Character 3)
+This does NOT mean that if the Murderer was Mr Baddaniel that the weapon
+was the Sniper Rifle.
+--------------------------------------------------------------------------
+Rooms:
+1. THE KITCHEN
+2. THE COZY BEDROOM
+3. THE LIVING ROOM
+4. THE PARENT'S BEDROOM
+5. THE STAFF'S OFFICE
+6. THE GAMING LOUNGE
+7. THE BATHROOM
+8. THE TOOL ROOM
+9. THE MEETING ROOM (MIDDLE)
+Rooms 1 - 6 have some sort of relation to the weapon AND character but 
+again does NOT mean that Mr Soupion murdered with the Boiling Hot Soup
+in the Kitchen.
+--------------------------------------------------------------------------
+Final info:
+1. Each new game will have randomised selections and will have no logic to
+   guess them. 
+2. Source code is available and provided but again will show no hints as
+   everything is randomised.
+3. I hope you enjoy the game and let me know what you like, and hate.
+   Please also leave suggestions for future projects and how to improve 
+   this project.
+4. Thank You!
+--------------------------------------------------------------------------
+
+DanielTheUncoolio
+
+--------------------------------------------------------------------------
